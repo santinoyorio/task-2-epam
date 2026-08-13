@@ -2,7 +2,7 @@ linea1 modificada por git 1
 linea2 modificada por git 1
 linea3 modificada por git 1 en segundo commit
 linea4 modificada por git 1 en segundo commit
-linea5
+linea5 modificada por git 1 en otra carpeta
 linea6
 linea7
 linea8
