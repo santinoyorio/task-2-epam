@@ -1,5 +1,5 @@
-linea1
-linea2
+linea1 modificada por git2
+linea2 modificada por git2
 linea3
 linea4
 linea5
